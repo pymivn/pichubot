@@ -14,6 +14,6 @@ BOT_EXTRA_PLUGIN_DIR = './plugins'
 BOT_IDENTITY = {
     'token': "YOUR_SLACK_TOKEN"
 }
-BOT_ADMINS = ('YOUR_SLACK_HANDLE')
+BOT_ADMINS = ('YOUR_SLACK_HANDLE',)
 ```
 then run `errbot -c config.py`

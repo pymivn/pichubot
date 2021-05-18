@@ -1,0 +1,10 @@
+[Core]
+name = pymi
+module = pymi
+
+[Documentation]
+description = for PyMiers
+
+[Python]
+version = 3
+
